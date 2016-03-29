@@ -1,11 +1,13 @@
 This is a self designed maven archetype, usable on local once first mvn install is done
 
-1- mvn install under C:\DevSnoNov\DevWorking\MavenTool\MavenArchetypeSNO\archetype>
+1- mvn install under ...\MavenTool\MavenArchetypeSNO\archetypeJavaClassic
 
 2- then test it
 mvn archetype:generate -DarchetypeGroupId=my.mvn.sno -DarchetypeArtifactId=JavaClassic -DarchetypeVersion=1.0-SNAPSHOT -DgroupId=com.sno.testit -DartifactId=TestArchetypeProject
 	  
 to use it once install locally
+
+JavaClassic is a standard Java maven project with logback and junit dependencies.
 
 Creation guides :
 https://maven.apache.org/guides/mini/guide-creating-archetypes.html
