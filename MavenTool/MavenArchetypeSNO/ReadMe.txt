@@ -12,3 +12,5 @@ https://maven.apache.org/guides/mini/guide-creating-archetypes.html
 https://maven.apache.org/plugins-archives/maven-archetype-plugin-1.0-alpha-7/examples/archetype.html
 
 http://marosmars.weebly.com/blog/maven-archetype-tutorial
+http://geekofficedog.blogspot.fr/2013/08/creating-maven-archetypes-tutorial.html
+http://javajeedevelopment.blogspot.fr/2012/05/how-to-create-maven-archetype.html
