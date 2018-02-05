@@ -1,7 +1,8 @@
-package com.sno.testit;
+package ${groupId};
 
-import org.junit.Assert;
-import org.junit.Test;
+import static org.junit.jupiter.api.Assertions.assertTrue;
+
+import org.junit.jupiter.api.Test;
 
 /**
  * Unit test for simple App.
@@ -16,7 +17,7 @@ public class AppTest
 	 */
 	@Test
 	public void sayHello() {
-		Assert.assertTrue(true);
+		assertTrue(true);
 		App.sayHello();
 	}
 }
