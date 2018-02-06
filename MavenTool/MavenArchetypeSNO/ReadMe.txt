@@ -12,8 +12,8 @@ JavaClassic is a standard Java maven project with logback and junit dependencies
 * 1.1-SNAPSHOT : Java 8 and Junit 5
 
 Project Maven Archetype reference
-* **Home** : https://maven.apache.org/archetype/maven-archetype-plugin/
-* **Source** : https://github.com/apache/maven-archetype/
+* Home : https://maven.apache.org/archetype/maven-archetype-plugin/
+* Source : https://github.com/apache/maven-archetype/
 
 Creation guides :
 * Maven tutorial : https://maven.apache.org/guides/mini/guide-creating-archetypes.html
