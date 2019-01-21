@@ -10,6 +10,7 @@ to use it once install locally
 JavaClassic is a standard Java maven project with logback and junit dependencies.
 * 1.0-SNAPSHOT : Java 7 and Junit 4
 * 1.1-SNAPSHOT : Java 8 and Junit 5
+* 1.2-SNAPSHOT : Java 8 and Junit 5 (update JUnit and Maven plugin version)
 
 Project Maven Archetype reference
 * Home : https://maven.apache.org/archetype/maven-archetype-plugin/
