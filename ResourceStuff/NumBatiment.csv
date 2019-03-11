@@ -1,0 +1,43 @@
+Id;Type;Nom;GainEcus;TypeGainRessource;NbGainRessource;PointsVictoire;Pierre;Bois;Savoir;Tuile;TotalRessource
+1;Batiment;Le Chateau-Fort;20;NA;0;7;5;3;5;3;16
+2;Batiment;L'etable;12;NA;0;3;0;1;2;3;6
+3;Outil;Four a tuiles;0;Tuile;2;1;0;1;1;0;2
+4;Batiment;Hutte de paille;6;NA;0;1;1;0;0;2;3
+5;Batiment;Taverne;16;NA;0;4;1;3;1;3;8
+6;Batiment;Moulin a vent;14;NA;0;3;3;0;3;1;7
+7;Batiment;Silo a grain;12;NA;0;3;0;2;3;1;6
+8;Batiment;Aqueduc;20;NA;0;6;5;2;5;0;12
+9;Batiment;Maisonnette;10;NA;0;2;2;1;0;2;5
+10;Batiment;Ferme;16;NA;0;4;4;2;0;2;8
+11;Outil;Instrument Mesure;0;Savoir;2;1;1;1;0;0;2
+12;Batiment;Tour de guet;18;NA;0;5;3;3;2;2;10
+13;Batiment;Maison urbaine;10;NA;0;2;2;0;2;1;5
+14;Outil;Grue;0;Pierre;2;1;0;1;0;1;2
+15;Batiment;Hotel;16;NA;0;4;1;3;3;1;8
+16;Batiment;Ecurie;14;NA;0;3;0;3;1;3;7
+17;Outil;Scie circulaire;0;Bois;2;1;1;0;1;0;2
+18;Outil;Scie circulaire;0;Bois;3;2;0;0;2;1;3
+19;Batiment;Eglise;18;NA;0;5;4;0;2;4;10
+20;Batiment;Lavoir;6;NA;0;1;0;1;0;2;3
+21;Batiment;Cabane perchee;6;NA;0;1;0;2;1;0;3
+22;Batiment;Maison rurale;10;NA;0;2;1;2;1;1;5
+23;Batiment;Cabane;8;NA;0;0;0;1;1;0;2
+24;Batiment;Relais postal;16;NA;0;4;3;1;2;2;8
+25;Batiment;Cloitre;18;NA;0;5;4;2;4;0;10
+26;Batiment;Porcherie;12;NA;0;3;0;2;2;2;6
+27;Batiment;Pont en pierre;6;NA;0;1;2;0;1;0;3
+28;Batiment;Forge;14;NA;0;3;2;2;0;3;7
+29;Batiment;Halles;16;NA;0;4;0;3;2;3;8
+30;Batiment;Cathedrale;20;NA;0;8;5;4;4;4;17
+31;Batiment;Chaumiere;10;NA;0;2;0;2;1;2;5
+32;Batiment;Maison bourgeoise;16;NA;0;4;2;2;2;2;8
+33;Batiment;Auberge;12;NA;0;3;2;1;1;2;6
+34;Batiment;Pont couvert;6;NA;0;1;0;1;2;0;3
+35;Batiment;Moulin a eau;14;NA;0;3;0;2;3;2;7
+36;Batiment;Relais rural;12;NA;0;3;0;3;1;2;6
+37;Outil;Four a tuiles;0;Tuile;3;2;2;1;0;0;3
+38;Batiment;Tonnelle;8;NA;0;0;1;0;0;1;2
+39;Outil;Instrument Mesure;0;Savoir;3;2;1;0;0;2;3
+40;Outil;Grue;0;Pierre;3;2;0;2;1;0;3
+41;Batiment;Abbaye;18;NA;0;5;4;3;2;1;10
+42;Batiment;Chapelle;18;NA;0;5;3;2;2;3;10
