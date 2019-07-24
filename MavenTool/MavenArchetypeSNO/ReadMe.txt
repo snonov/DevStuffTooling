@@ -3,7 +3,7 @@ This is a self designed maven archetype, usable on local once first mvn install 
 1- mvn install under ...\MavenTool\MavenArchetypeSNO\archetypeJavaClassic
 
 2- then test it
-mvn archetype:generate -DarchetypeGroupId=my.mvn.sno -DarchetypeArtifactId=JavaClassic -DarchetypeVersion=1.1-SNAPSHOT -DgroupId=com.sno.testit -DartifactId=TestArchetypeProject
+mvn archetype:generate -DarchetypeGroupId=my.mvn.sno -DarchetypeArtifactId=JavaClassic -DarchetypeVersion=1.2-SNAPSHOT -DgroupId=com.sno.testit -DartifactId=TestArchetypeProject
 	  
 to use it once install locally
 
