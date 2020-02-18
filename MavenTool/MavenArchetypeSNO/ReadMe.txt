@@ -3,7 +3,7 @@ This is a self designed maven archetype, usable on local once first mvn install 
 1- mvn install under ...\MavenTool\MavenArchetypeSNO\archetypeJavaClassic
 
 2- then test it
-mvn archetype:generate -DarchetypeGroupId=my.mvn.sno -DarchetypeArtifactId=JavaClassic -DarchetypeVersion=1.2-SNAPSHOT -DgroupId=com.sno.testit -DartifactId=TestArchetypeProject
+mvn archetype:generate -DarchetypeGroupId=my.mvn.sno -DarchetypeArtifactId=JavaClassic -DarchetypeVersion=1.3-SNAPSHOT -DgroupId=com.sno.testit -DartifactId=TestArchetypeProject
 	  
 to use it once install locally
 
@@ -11,6 +11,7 @@ JavaClassic is a standard Java maven project with logback and junit dependencies
 * 1.0-SNAPSHOT : Java 7 and Junit 4
 * 1.1-SNAPSHOT : Java 8 and Junit 5
 * 1.2-SNAPSHOT : Java 8 and Junit 5 (update JUnit and Maven plugin version)
+* 1.3-SNAPSHOT : Java 8 and Junit 5 (update JUnit, Maven plugin, slf4j version)
 
 Project Maven Archetype reference
 * Home : https://maven.apache.org/archetype/maven-archetype-plugin/
