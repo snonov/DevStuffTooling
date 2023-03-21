@@ -6,8 +6,8 @@
 /.settings/
 
 # intelliJ
-/.idea/
-/NovCrawl.iml
+.idea/
+
 
 #Maven
 target/
