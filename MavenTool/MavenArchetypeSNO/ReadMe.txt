@@ -5,7 +5,7 @@ under ...\MavenTool\MavenArchetypeSNO\archetypeJavaClassic
 under ...\MavenTool\MavenArchetypeSNO\archetypeJavaSpringRest
 
 2- then test it
-mvn archetype:generate -DarchetypeGroupId=my.mvn.sno -DarchetypeArtifactId=JavaClassic -DarchetypeVersion=1.4-SNAPSHOT -DgroupId=com.sno.testit -DartifactId=TestJCArchetypeProject
+mvn archetype:generate -DarchetypeGroupId=my.mvn.sno -DarchetypeArtifactId=JavaClassic -DarchetypeVersion=1.5-SNAPSHOT -DgroupId=com.sno.testit -DartifactId=TestJCArchetypeProject
 mvn archetype:generate -DarchetypeGroupId=my.mvn.sno -DarchetypeArtifactId=JavaSpringRest -DarchetypeVersion=1.0-SNAPSHOT -DgroupId=com.sno.testit -DartifactId=TestJSRArchetypeProject
 	  
 to use it once install locally
@@ -16,6 +16,7 @@ JavaClassic is a standard Java maven project with logback and junit dependencies
 * 1.2-SNAPSHOT : Java 8 and Junit 5 (update JUnit and Maven plugin version)
 * 1.3-SNAPSHOT : Java 8 and Junit 5 (update JUnit, Maven plugin, slf4j version)
 * 1.4-SNAPSHOT : Java 17 and Junit 5 (update JUnit, Maven plugin, slf4j version)
+* 1.5-SNAPSHOT : Java 21 and Junit 5 (update Java, Junit, slf4j version)
 
 JavaSpringRest is classic SpringBoot/Spring Rest quick sample project with logback and junit dependencies.
 * 1.0-SNAPSHOT : Java 17, Springboot 3, Spring 6 and Junit 5
